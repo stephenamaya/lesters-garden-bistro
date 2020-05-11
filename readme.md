@@ -14,7 +14,7 @@ Either way, open the index.html file in your browser to see your cloned copy.
 
 ## Built With
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
+* [Simple Grid](https://simplegrid.io/) - The CSS framework used
 
 
 ## Authors
