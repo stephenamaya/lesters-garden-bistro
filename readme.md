@@ -1,4 +1,4 @@
-# Static Site for Lesters Garden Bistro
+# Lesters Garden Bistro
 
 ![alt text](./images/lester-read.jpg) 
 
