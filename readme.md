@@ -4,7 +4,7 @@ One Paragraph of project description goes here
 
 ## Getting Started
 
-![alt text](./images/lester-readme.jpg)
+![alt text](./images/lester-read.jpg)
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
