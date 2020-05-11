@@ -5,9 +5,6 @@ Here we have our main man, lester. Lester is a goose, albeit a strange crooked g
 * [Live! Lesters Garden Bistro](https://stephenamaya.github.io/lesters-garden-bistro/)
 
 
-![alt text](./images/lester-read.jpg)
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
 ### Prerequisites
 
