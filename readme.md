@@ -17,12 +17,10 @@ Either way, open the index.html file in your browser to see your cloned copy.
 * [Simple Grid](https://simplegrid.io/) - The CSS framework used
 
 
-## Authors
+## Special Thanks
 
-* **Stephen Amaya** - *Me* - 
 * **Celina Amaya** - *My wife* - 
 * **Sandra Lezcano** - *Lesters mom* - 
-
 
 ## License
 
