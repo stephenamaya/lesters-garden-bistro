@@ -20,7 +20,7 @@ Either way, open the index.html file in your browser to see your cloned copy.
 ## Special Thanks
 
 * **Celina Amaya** - *My wife* - 
-* **Sandra Lezcano** - *Lesters mom* - 
+* **Sandra Lezcano** - *Lester's mom* - 
 
 ## License
 
