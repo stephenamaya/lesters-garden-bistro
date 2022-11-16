@@ -336,7 +336,7 @@ body::-webkit-scrollbar-thumb:hover {
   }
 
   .nav {
-    background-color: rgb(255, 255, 255);
+    background-color: rgba(255, 255, 255, 0.521);
   }
 
   .nav a {
@@ -363,4 +363,8 @@ body::-webkit-scrollbar-thumb:hover {
     border-radius: 5px;
     padding: 5px 5px 0px 5px;
   }
+  .home {
+    width: 50px;
+  }
+  
 }
